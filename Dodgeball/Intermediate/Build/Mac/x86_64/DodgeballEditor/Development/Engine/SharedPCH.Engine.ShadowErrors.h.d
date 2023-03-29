@@ -1,5 +1,5 @@
-/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.gch: \
-  /Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h \
+/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.gch: \
+  /Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h \
   Runtime/Engine/Public/EngineSharedPCH.h \
   Runtime/Core/Public/Containers/ContainersFwd.h \
   Runtime/Core/Public/HAL/Platform.h Runtime/Core/Public/Misc/Build.h \

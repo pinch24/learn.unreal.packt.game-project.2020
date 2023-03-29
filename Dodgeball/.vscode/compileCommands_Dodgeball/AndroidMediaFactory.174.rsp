@@ -1,5 +1,5 @@
 -include "/Users/Shared/Epic Games/UE_5.1/Engine/Plugins/Media/AndroidMedia/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/AndroidMediaFactory/Definitions.AndroidMediaFactory.h" 
--include "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/CoreUObject/SharedPCH.CoreUObject.ShadowErrors.h" 
+-include "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/CoreUObject/SharedPCH.CoreUObject.ShadowErrors.h" 
 -I "/Users/Shared/Epic Games/UE_5.1/Engine/Source" 
 -I "/Users/Shared/Epic Games/UE_5.1/Engine/Plugins/Media/AndroidMedia/Source/AndroidMediaFactory/Private" 
 -I "/Users/Shared/Epic Games/UE_5.1/Engine/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/MediaAssets/UHT" 

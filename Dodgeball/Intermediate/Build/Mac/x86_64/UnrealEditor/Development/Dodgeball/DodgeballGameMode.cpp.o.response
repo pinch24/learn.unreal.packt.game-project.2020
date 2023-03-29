@@ -268,8 +268,8 @@
 -I"Runtime/MovieSceneCapture/Public"
 -I"../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/AnimationDataController/UHT"
 -I"Developer/AnimationDataController/Public"
--I"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Dodgeball/UHT"
--I"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Source"
+-I"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Dodgeball/UHT"
+-I"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Source"
 -I"../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/AugmentedReality/UHT"
 -I"Runtime/AugmentedReality/Public"
 -I"../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/MRMesh/UHT"
@@ -280,8 +280,8 @@
 -isystem"ThirdParty/mimalloc/include"
 -isystem"ThirdParty/LibTiff/Source/Mac"
 -isystem"ThirdParty/LibTiff/Source"
--include-pch "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.gch"
--include "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/Definitions.Dodgeball.h"
+-include-pch "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.gch"
+-include "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/Definitions.Dodgeball.h"
 -Wall
 -Werror
 -Wdelete-non-virtual-dtor
@@ -333,6 +333,6 @@
 -std=c++17
 -fpch-validate-input-files-content
 -stdlib=libc++
-"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Source/Dodgeball/DodgeballGameMode.cpp"
--MD -MF"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/DodgeballGameMode.cpp.d"
--o "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/DodgeballGameMode.cpp.o"
+"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Source/Dodgeball/DodgeballGameMode.cpp"
+-MD -MF"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/DodgeballGameMode.cpp.d"
+-o "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/DodgeballGameMode.cpp.o"

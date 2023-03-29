@@ -328,6 +328,6 @@
 -fpch-validate-input-files-content
 -stdlib=libc++
 -fpch-instantiate-templates
-"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h"
--MD -MF"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.d"
--o "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.gch"
+"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h"
+-MD -MF"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.d"
+-o "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.gch"

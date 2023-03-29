@@ -35,4 +35,8 @@ private:
 public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Dodgeball, meta = (AllowPrivateAccess = "true"))
 	class UProjectileMovementComponent* ProjectileMovement;
+
+	FORCEINLINE class UProjectileMovementComponent* GetProjectileMovementComponent() const {
+		return ProjectileMovement;
+	}
 };

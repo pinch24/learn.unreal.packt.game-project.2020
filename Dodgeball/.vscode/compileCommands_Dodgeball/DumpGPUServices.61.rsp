@@ -1,5 +1,5 @@
 -include "/Users/Shared/Epic Games/UE_5.1/Engine/Plugins/Developer/DumpGPUServices/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/DumpGPUServices/Definitions.DumpGPUServices.h" 
--include "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Slate/SharedPCH.Slate.ShadowErrors.h" 
+-include "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Slate/SharedPCH.Slate.ShadowErrors.h" 
 -I "/Users/Shared/Epic Games/UE_5.1/Engine/Source" 
 -I "/Users/Shared/Epic Games/UE_5.1/Engine/Plugins/Developer/DumpGPUServices/Source/DumpGPUServices/Private" 
 -I "/Users/Shared/Epic Games/UE_5.1/Engine/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/RenderCore/UHT" 

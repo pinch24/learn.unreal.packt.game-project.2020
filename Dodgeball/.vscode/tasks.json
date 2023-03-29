@@ -9,7 +9,7 @@
 				"Dodgeball",
 				"Mac",
 				"Debug",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -26,7 +26,7 @@
 				"Dodgeball",
 				"Mac",
 				"Debug",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -46,7 +46,7 @@
 				"Dodgeball",
 				"Mac",
 				"Debug",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -64,7 +64,7 @@
 				"Dodgeball",
 				"Mac",
 				"DebugGame",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -81,7 +81,7 @@
 				"Dodgeball",
 				"Mac",
 				"DebugGame",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -101,7 +101,7 @@
 				"Dodgeball",
 				"Mac",
 				"DebugGame",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -119,7 +119,7 @@
 				"Dodgeball",
 				"Mac",
 				"Development",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -136,7 +136,7 @@
 				"Dodgeball",
 				"Mac",
 				"Development",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -156,7 +156,7 @@
 				"Dodgeball",
 				"Mac",
 				"Development",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -174,7 +174,7 @@
 				"Dodgeball",
 				"Mac",
 				"Test",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -191,7 +191,7 @@
 				"Dodgeball",
 				"Mac",
 				"Test",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -211,7 +211,7 @@
 				"Dodgeball",
 				"Mac",
 				"Test",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -229,7 +229,7 @@
 				"Dodgeball",
 				"Mac",
 				"Shipping",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -246,7 +246,7 @@
 				"Dodgeball",
 				"Mac",
 				"Shipping",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -266,7 +266,7 @@
 				"Dodgeball",
 				"Mac",
 				"Shipping",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -284,7 +284,7 @@
 				"Dodgeball",
 				"IOS",
 				"Debug",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -301,7 +301,7 @@
 				"Dodgeball",
 				"IOS",
 				"Debug",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -321,7 +321,7 @@
 				"Dodgeball",
 				"IOS",
 				"Debug",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -339,7 +339,7 @@
 				"Dodgeball",
 				"IOS",
 				"DebugGame",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -356,7 +356,7 @@
 				"Dodgeball",
 				"IOS",
 				"DebugGame",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -376,7 +376,7 @@
 				"Dodgeball",
 				"IOS",
 				"DebugGame",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -394,7 +394,7 @@
 				"Dodgeball",
 				"IOS",
 				"Development",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -411,7 +411,7 @@
 				"Dodgeball",
 				"IOS",
 				"Development",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -431,7 +431,7 @@
 				"Dodgeball",
 				"IOS",
 				"Development",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -449,7 +449,7 @@
 				"Dodgeball",
 				"IOS",
 				"Test",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -466,7 +466,7 @@
 				"Dodgeball",
 				"IOS",
 				"Test",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -486,7 +486,7 @@
 				"Dodgeball",
 				"IOS",
 				"Test",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -504,7 +504,7 @@
 				"Dodgeball",
 				"IOS",
 				"Shipping",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -521,7 +521,7 @@
 				"Dodgeball",
 				"IOS",
 				"Shipping",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -541,7 +541,7 @@
 				"Dodgeball",
 				"IOS",
 				"Shipping",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -559,7 +559,7 @@
 				"DodgeballEditor",
 				"Mac",
 				"Debug",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -576,7 +576,7 @@
 				"DodgeballEditor",
 				"Mac",
 				"Debug",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -596,7 +596,7 @@
 				"DodgeballEditor",
 				"Mac",
 				"Debug",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -614,7 +614,7 @@
 				"DodgeballEditor",
 				"Mac",
 				"DebugGame",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -631,7 +631,7 @@
 				"DodgeballEditor",
 				"Mac",
 				"DebugGame",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -651,7 +651,7 @@
 				"DodgeballEditor",
 				"Mac",
 				"DebugGame",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],
@@ -669,7 +669,7 @@
 				"DodgeballEditor",
 				"Mac",
 				"Development",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -686,7 +686,7 @@
 				"DodgeballEditor",
 				"Mac",
 				"Development",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -706,7 +706,7 @@
 				"DodgeballEditor",
 				"Mac",
 				"Development",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-waitmutex",
 				"-clean"
 			],

@@ -1,4 +1,4 @@
-/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/EnemyCharacter.cpp.o: \
+/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/EnemyCharacter.cpp.o: \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Engine/UHT/SoundWave.generated.h \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/AudioExtensions/UHT/IWaveformTransformation.generated.h \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/Runtime/AudioExtensions/Public/IWaveformTransformation.h \
@@ -1623,7 +1623,7 @@
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/Runtime/Core/Public/HAL/Platform.h \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/Runtime/Core/Public/Containers/ContainersFwd.h \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
-  /Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h \
+  /Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/DodgeballEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -3337,9 +3337,9 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \
-  /Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Source/Dodgeball/EnemyCharacter.cpp \
-  /Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/Definitions.Dodgeball.h \
-  /Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Source/Dodgeball/EnemyCharacter.h \
+  /Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Source/Dodgeball/EnemyCharacter.cpp \
+  /Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/Dodgeball/Definitions.Dodgeball.h \
+  /Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Source/Dodgeball/EnemyCharacter.h \
   Runtime/Core/Public/CoreMinimal.h \
   Runtime/Engine/Classes/GameFramework/Character.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
@@ -3362,7 +3362,7 @@
   Runtime/CoreUObject/Public/UObject/Class.h \
   ../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Engine/UHT/RootMotionSource.generated.h \
   ../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Engine/UHT/Character.generated.h \
-  /Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Source/Dodgeball/DodgeballProjectile.h \
+  /Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Source/Dodgeball/DodgeballProjectile.h \
   Runtime/Engine/Classes/Components/SphereComponent.h \
   Runtime/Engine/Classes/Components/ShapeComponent.h \
   Runtime/Engine/Classes/Components/PrimitiveComponent.h \
@@ -3374,8 +3374,8 @@
   Runtime/Engine/Classes/Components/SceneComponent.h \
   ../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Engine/UHT/MovementComponent.generated.h \
   ../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Engine/UHT/ProjectileMovementComponent.generated.h \
-  /Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Dodgeball/UHT/DodgeballProjectile.generated.h \
-  /Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Dodgeball/UHT/EnemyCharacter.generated.h \
+  /Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Dodgeball/UHT/DodgeballProjectile.generated.h \
+  /Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Dodgeball/UHT/EnemyCharacter.generated.h \
   Runtime/Engine/Classes/Engine/World.h \
   Runtime/Engine/Public/DrawDebugHelpers.h \
   Runtime/Engine/Classes/Kismet/KismetMathLibrary.h \

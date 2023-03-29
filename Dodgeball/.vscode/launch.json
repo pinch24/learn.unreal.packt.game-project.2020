@@ -4,7 +4,7 @@
 		{
 			"name": "Launch Dodgeball (Debug)",
 			"request": "launch",
-			"program": "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Binaries/Mac/UnrealGame-Mac-Debug.app/Contents/MacOS/UnrealGame-Mac-Debug",
+			"program": "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Binaries/Mac/UnrealGame-Mac-Debug.app/Contents/MacOS/UnrealGame-Mac-Debug",
 			"preLaunchTask": "Dodgeball Mac Debug Build",
 			"args": [
 			],
@@ -14,7 +14,7 @@
 		{
 			"name": "Launch Dodgeball (DebugGame)",
 			"request": "launch",
-			"program": "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Binaries/Mac/UnrealGame-Mac-DebugGame.app/Contents/MacOS/UnrealGame-Mac-DebugGame",
+			"program": "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Binaries/Mac/UnrealGame-Mac-DebugGame.app/Contents/MacOS/UnrealGame-Mac-DebugGame",
 			"preLaunchTask": "Dodgeball Mac DebugGame Build",
 			"args": [
 			],
@@ -24,7 +24,7 @@
 		{
 			"name": "Launch Dodgeball (Development)",
 			"request": "launch",
-			"program": "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Binaries/Mac/UnrealGame.app/Contents/MacOS/UnrealGame",
+			"program": "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Binaries/Mac/UnrealGame.app/Contents/MacOS/UnrealGame",
 			"preLaunchTask": "Dodgeball Mac Development Build",
 			"args": [
 			],
@@ -34,7 +34,7 @@
 		{
 			"name": "Launch Dodgeball (Test)",
 			"request": "launch",
-			"program": "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Binaries/Mac/UnrealGame-Mac-Test.app/Contents/MacOS/UnrealGame-Mac-Test",
+			"program": "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Binaries/Mac/UnrealGame-Mac-Test.app/Contents/MacOS/UnrealGame-Mac-Test",
 			"preLaunchTask": "Dodgeball Mac Test Build",
 			"args": [
 			],
@@ -44,7 +44,7 @@
 		{
 			"name": "Launch Dodgeball (Shipping)",
 			"request": "launch",
-			"program": "/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Binaries/Mac/UnrealGame-Mac-Shipping.app/Contents/MacOS/UnrealGame-Mac-Shipping",
+			"program": "/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Binaries/Mac/UnrealGame-Mac-Shipping.app/Contents/MacOS/UnrealGame-Mac-Shipping",
 			"preLaunchTask": "Dodgeball Mac Shipping Build",
 			"args": [
 			],
@@ -57,7 +57,7 @@
 			"program": "/Users/Shared/Epic Games/UE_5.1/Engine/Binaries/Mac/UnrealEditor-Mac-Debug.app/Contents/MacOS/UnrealEditor-Mac-Debug",
 			"preLaunchTask": "DodgeballEditor Mac Debug Build",
 			"args": [
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject"
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject"
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_5.1",
 			"type": "lldb"
@@ -68,7 +68,7 @@
 			"program": "/Users/Shared/Epic Games/UE_5.1/Engine/Binaries/Mac/UnrealEditor-Mac-DebugGame.app/Contents/MacOS/UnrealEditor-Mac-DebugGame",
 			"preLaunchTask": "DodgeballEditor Mac DebugGame Build",
 			"args": [
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject"
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject"
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_5.1",
 			"type": "lldb"
@@ -79,7 +79,7 @@
 			"program": "/Users/Shared/Epic Games/UE_5.1/Engine/Binaries/Mac/UnrealEditor.app/Contents/MacOS/UnrealEditor",
 			"preLaunchTask": "DodgeballEditor Mac Development Build",
 			"args": [
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject"
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject"
 			],
 			"cwd": "/Users/Shared/Epic Games/UE_5.1",
 			"type": "lldb"
@@ -92,7 +92,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Dodgeball.uproject",
+				"-project=/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Dodgeball.uproject",
 				"-game",
 				"-engine"
 			],
