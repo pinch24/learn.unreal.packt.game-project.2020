@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Source/Dodgeball/Dodgeball.Build.cs",
+		"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Source/Dodgeball.Target.cs",
+		"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Source/DodgeballEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}
