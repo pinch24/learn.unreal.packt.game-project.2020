@@ -6,9 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Content/ThirdPerson/Blueprints/BP_EnemyCharacter.uasset",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/32/QOHH8BXIMEEVRWWC6Q97F7.uasset",
 				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/ZI/FP0RUPPKGEJ46X0ICVF2II.uasset",
-				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8C/CKRXEX71QHLK5ZLOH72D0Z.uasset"
+				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/8C/CKRXEX71QHLK5ZLOH72D0Z.uasset",
+				"/Users/mk/Studies/learn.unreal/learn.unreal.game-project.2020/Dodgeball/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"/Users/mk/Studies/learn.unreal/Fozi/Dodgeball/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/32/QOHH8BXIMEEVRWWC6Q97F7.uasset"
 			]
 		}
 	]
