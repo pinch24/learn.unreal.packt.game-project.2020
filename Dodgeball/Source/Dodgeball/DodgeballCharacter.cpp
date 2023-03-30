@@ -39,7 +39,7 @@ ADodgeballCharacter::ADodgeballCharacter()
 	// Create a camera boom (pulls in towards the player if there is a collision)
 	CameraBoom = CreateDefaultSubobject<USpringArmComponent>(TEXT("CameraBoom"));
 	CameraBoom->SetupAttachment(RootComponent);
-	CameraBoom->TargetArmLength = 900.0f; // The camera follows at this distance behind the character
+	CameraBoom->TargetArmLength = 1200.0f; // The camera follows at this distance behind the character
 	CameraBoom->SetRelativeRotation(FRotator(-70.0f, 0.0f, 0.0f));
 	CameraBoom->bUsePawnControlRotation = false; // Rotate the arm based on the controller
 	CameraBoom->bInheritPitch = false;
