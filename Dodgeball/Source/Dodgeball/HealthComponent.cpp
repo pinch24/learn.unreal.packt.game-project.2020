@@ -39,6 +39,10 @@ void UHealthComponent::LoseHealth(float Amount)
 {
 	Health -= Amount;
 
+	if (GetOwner()->Implements<UHealthInterface>()) {
+		IHealthInterface::Execute_OnTakeDamage(GetOwner());
+	}
+	
 	if (Health <= 0.0f) {
 		Health = 0.0f;
 

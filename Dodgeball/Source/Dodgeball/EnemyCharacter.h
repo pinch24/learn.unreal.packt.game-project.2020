@@ -39,6 +39,7 @@ protected:
 	FTimerHandle ThrowTimerHandle;
 	float ThrowingInterval = 2.0f;
 	float ThrowingDelay = 0.5f;
+	
 	void ThrowDodgeball();
 
 private:
