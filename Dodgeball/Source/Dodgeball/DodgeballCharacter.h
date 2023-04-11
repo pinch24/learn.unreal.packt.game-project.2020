@@ -3,16 +3,38 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "HealthInterface.h"
 #include "GameFramework/Character.h"
 #include "InputActionValue.h"
 #include "DodgeballCharacter.generated.h"
 
 
 UCLASS(config=Game)
-class ADodgeballCharacter : public ACharacter
+class ADodgeballCharacter : public ACharacter, public IHealthInterface
 {
 	GENERATED_BODY()
 
+protected:
+	// APawn interface
+	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+	
+	// To add mapping context
+	virtual void BeginPlay();
+
+public:
+	ADodgeballCharacter();
+
+	virtual void OnDeath_Implementation() override;
+
+protected:
+
+	/** Called for movement input */
+	void Move(const FInputActionValue& Value);
+
+	/** Called for looking input */
+	void Look(const FInputActionValue& Value);
+
+private:
 	/** Camera boom positioning the camera behind the character */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
 	class USpringArmComponent* CameraBoom;
@@ -37,25 +59,7 @@ class ADodgeballCharacter : public ACharacter
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = Input, meta = (AllowPrivateAccess = "true"))
 	class UInputAction* LookAction;
 
-public:
-	ADodgeballCharacter();
-	
-
-protected:
-
-	/** Called for movement input */
-	void Move(const FInputActionValue& Value);
-
-	/** Called for looking input */
-	void Look(const FInputActionValue& Value);
-			
-
-protected:
-	// APawn interface
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
-	
-	// To add mapping context
-	virtual void BeginPlay();
+	class UHealthComponent* HealthComponent;
 
 public:
 	/** Returns CameraBoom subobject **/

@@ -28,11 +28,6 @@ public:
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 public:
-	bool LookAtActor(AActor* TagetActor);
-	bool CanSeeActor(const AActor* TargetActor) const;
-
-	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = LookAt, meta = (AllowPrivateAccess = "true"))
-	class USceneComponent* SightSource;
 
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = Dodgeball)
 	TSubclassOf<class ADodgeballProjectile> DodgeballClass;
@@ -45,4 +40,8 @@ protected:
 	float ThrowingInterval = 2.0f;
 	float ThrowingDelay = 0.5f;
 	void ThrowDodgeball();
+
+private:
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = LookAt, meta = (AllowPrivateAccess = "true"))
+	class ULookAtActorComponent* LookAtActorComponent;
 };
