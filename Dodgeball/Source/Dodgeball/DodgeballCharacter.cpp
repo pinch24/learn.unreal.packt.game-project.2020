@@ -105,7 +105,6 @@ void ADodgeballCharacter::SetupPlayerInputComponent(class UInputComponent* Playe
 		//Looking
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &ADodgeballCharacter::Look);
 	}
-
 }
 
 void ADodgeballCharacter::Move(const FInputActionValue& Value)

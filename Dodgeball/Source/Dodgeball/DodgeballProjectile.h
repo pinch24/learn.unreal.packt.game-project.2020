@@ -36,11 +36,23 @@ protected:
 	UPROPERTY(EditAnywhere, Category = Damage)
 	float Damage = 34.0f;
 
+	// Sound
+	UPROPERTY(EditAnywhere, Category = Sound)
+	class USoundBase* DamageSound;
+
+	UPROPERTY(EditAnywhere, Category = Sound)
+	class USoundBase* BounceSound;
+
+	UPROPERTY(EditAnywhere, Category = Sound)
+	class USoundAttenuation* BounceSoundAttenuation;
+
+	// Particle
+	UPROPERTY(EditAnywhere, Category = Particles)
+	class UParticleSystem* HitParticles;
+
 public:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Dodgeball, meta = (AllowPrivateAccess = "true"))
 	class UProjectileMovementComponent* ProjectileMovement;
 
-	FORCEINLINE class UProjectileMovementComponent* GetProjectileMovementComponent() const {
-		return ProjectileMovement;
-	}
+	FORCEINLINE class UProjectileMovementComponent* GetProjectileMovementComponent() const { return ProjectileMovement; }
 };
