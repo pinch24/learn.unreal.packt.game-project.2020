@@ -18,6 +18,8 @@ void ASuperSideScroller_Player::SetupPlayerInputComponent(UInputComponent* Playe
 
 	PlayerInputComponent->BindAction("Sprint", IE_Pressed, this, &ASuperSideScroller_Player::Sprint);
 	PlayerInputComponent->BindAction("Sprint", IE_Released, this, &ASuperSideScroller_Player::StopSprinting);
+
+	PlayerInputComponent->BindAction("ThrowProjectile", IE_Pressed, this, &ASuperSideScroller_Player::ThrowProjectile);
 }
 
 void ASuperSideScroller_Player::Sprint()
